@@ -111,39 +111,60 @@
 // && - and
 // !
 
-let age = 24
-let firstName = 'Ulfat'
-let lastName = 'Zakirli'
+// let age = 24
+// let firstName = 'Ulfat'
+// let lastName = 'Zakirli'
 
-// 1
-if (age == 24) {
-    console.log('1');
-} else if (age === 20) {
-    console.log('2');
-}
-else if (age === 20) {
-    console.log('3');
-}
-else {
-    console.log('4');
-}
+// // 1
+// if (age == 24) {
+//     console.log('1');
+// } else if (age === 20) {
+//     console.log('2');
+// }
+// else if (age === 20) {
+//     console.log('3');
+// }
+// else {
+//     console.log('4');
+// }
 
-// 2
-if (age == 19 || user !== 'Ulfat') {
-    console.log('1');
-} else if (age === 20) {
-    console.log('2');
-}
-else if (age === 20) {
-    console.log('3');
-}
-else {
-    console.log('4');
-}
-
-
+// // 2
+// if (age == 19 || user !== 'Ulfat') {
+//     console.log('1');
+// } else if (age === 20) {
+//     console.log('2');
+// }
+// else if (age === 20) {
+//     console.log('3');
+// }
+// else {
+//     console.log('4');
+// }
 
 
+// console.log(4 + 8 + '5');
+
+// console.log('4' + 1 + 1 + '5'); //4115
+// console.log('4' + 8 + 5); //485
+// console.log(1 + '1' + 8 + '5'); //1185
+// console.log(1 + 2 + '1' + 1 + 8 + '5'); //31185
+// console.log(4 + 8 + '5');//125
+// console.log(1 + '8' + '5'); //185
+// console.log(1 + 1 + '1' + 8 + '5'); // 2185
+// console.log(1 + '1' + 8 + '5'); //1185
+// console.log(1 + 1 + 8 - 5 + '7'); //
 
 
+// console.log('Ruslan' - 8);
+
+// falsy-0,'',undefined,null,NaN,false
+
+// all number (2342,1,2,-2342342,-1)
+// all strings ('ulfat','aysun' etc..) 
+
+// if (` `) {
+//     console.log('1');
+// } else {
+//     console.log('2');
+// }
 
