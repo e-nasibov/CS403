@@ -90,12 +90,10 @@ const arr2 = [1, 3, 5, 8, true, undefined, null, false, 'ulfat', 7, 9, 0, 'h', f
 // console.log(arr2.at(1));
 // console.log(arr2[1]);
 
-
 // arr2.pop()
 // arr2.pop()
 // arr2.pop()
 // arr2.push('CS403', 'ulfat', '777')
-
 
 // arr2.shift()
 // arr2.shift()
