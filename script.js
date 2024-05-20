@@ -27,11 +27,11 @@ console.log(sum);
 
 
 // //4.Create variables called name, surname and year assign values to them name and surname
-// let namee = kapital;
-// let surname = nasibov;
-// let year = "1991";
-// let result = namee + " " + surname + " " + year;
-// console.log(result);
+let namee = kapital;
+let surname = nasibov;
+let year = "1991";
+let result = namee + " " + surname + " " + year;
+console.log(result);
 
 
 //5.Console the remainder(%) when 17 is divided by 12.
